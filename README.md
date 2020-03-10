@@ -34,9 +34,9 @@ DOWNLOAD REMOTE BRANCH
 OTHER COMMANDS
 ----------------
 
-- git config user.name "Jonad Dreamer"
+- git config --global user.name "Jonad Dreamer"
 
-- git config user.email "email@gmail.com"
+- git config --global user.email "email@gmail.com"
 
 - git reflog
 
